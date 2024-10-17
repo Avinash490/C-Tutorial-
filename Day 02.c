@@ -1,4 +1,5 @@
-// Day : 01 WAP to sum of numbers?
+// Day : 02 Of C-Tutorial.
+// WAP to sum of numbers?
 #include<stdio.h>
 
 int main()
