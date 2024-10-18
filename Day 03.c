@@ -1,4 +1,5 @@
-// Day : 02 WAP to subtract of numbers?
+// Day : 03 Of C Tutorial.
+// WAP to subtract of numbers?
 #include<stdio.h>
 
 int main()
