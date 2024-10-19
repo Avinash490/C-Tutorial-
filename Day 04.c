@@ -1,4 +1,5 @@
-// Day : 03 WAP to multiply of two numbers?
+// Day : 04 Of C Tutorial.
+// WAP to multiply of two numbers?
 
 #include<stdio.h>
 
