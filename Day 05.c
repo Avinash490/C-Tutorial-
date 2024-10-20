@@ -1,4 +1,5 @@
-// Day : 04 WAP to divide of numbers?
+// Day : 05 Of C Tutorial.
+// WAP to divide of numbers?
 #include<stdio.h>
 
 int main()
