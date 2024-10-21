@@ -1,4 +1,5 @@
-// Day : 05 WAP to demonstrate the function of Implicit Type Convertion? 
+// Day : 06 Of C Tutorial.
+// WAP to demonstrate the function of Implicit Type Convertion? 
 
 #include<stdio.h>
 
@@ -9,4 +10,4 @@ int main()
 	printf("Example of implicit type convertion : It automatically convert the float (7.47) into integer: %d \n", a);
 
 	return 0;
-}
+} 
