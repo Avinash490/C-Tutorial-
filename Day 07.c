@@ -1,4 +1,5 @@
-// Day : 06 WAP to declare explicit type conversion?
+// Day : 07 Of C Tutorial.
+// WAP to declare explicit type conversion?
 
 #include<stdio.h>
 
