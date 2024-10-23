@@ -1,4 +1,5 @@
-// Day : 07 WAP to demontrate type conversion?
+// Day : 08 Of C Tutorial.
+// WAP to demontrate type conversion?
 
 #include<stdio.h>
 
