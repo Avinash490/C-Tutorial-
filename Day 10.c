@@ -1,4 +1,5 @@
-// Day : 09 WAP to find the biggest number?
+// Day : 10 Of C Tutorial.
+// WAP to find the biggest number?
 
 #include<stdio.h>
 int main()
