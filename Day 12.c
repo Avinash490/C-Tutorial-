@@ -1,4 +1,5 @@
-// Day : 11 WAP to find the given number is odd and even?
+// Day : 12 Of C Tutorial.
+// WAP to find the given number is odd and even?
 
 #include<stdio.h>
 
