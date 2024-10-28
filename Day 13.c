@@ -1,4 +1,5 @@
-// Day : 12 WAP to check the student are eligible or not to fill the sarkari form?
+// Day : 13 Of C Tutorial.
+// WAP to check the student are eligible or not to fill the sarkari form?
 
 #include<stdio.h>
 
