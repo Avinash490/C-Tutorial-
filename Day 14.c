@@ -1,4 +1,5 @@
-// Day : 13 WAP to calculate the electricity bill?
+// Day : 14 Of C Tutorial.
+// WAP to calculate the electricity bill?
 
 #include<stdio.h>
 
