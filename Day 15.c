@@ -1,4 +1,5 @@
-// Day : 14 WAP to calculate a salary?
+// Day : 15 Of C Tutorial.
+// WAP to calculate a salary?
 
 #include<stdio.h>
 
