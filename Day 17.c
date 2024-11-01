@@ -1,4 +1,5 @@
-// Day : 16 WAP to find the biggest number in four variables?
+// Day : 17 Of C tutorial.
+// WAP to find the biggest number in four variables?
 
 #include<stdio.h>
 
