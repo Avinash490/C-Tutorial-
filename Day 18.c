@@ -1,4 +1,5 @@
-// Day : 17 WAP to find the biggest number in three variables?
+// Day : 18 Of C Tutorial.
+// WAP to find the biggest number in three variables?
 
 #include<stdio.h>
 
