@@ -1,4 +1,5 @@
-// Day : 18 WAP to enter week days in number and convert into day?
+// Day : 19 Of C Tutorial.
+// WAP to enter week days in number and convert into day?
 
 #include<stdio.h>
 
