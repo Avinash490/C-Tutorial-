@@ -1,4 +1,5 @@
-// Day : 19 WAP to enter month in number and convert them into month name?
+// Day : 20 Of C Tutorial.
+// WAP to enter month in number and convert them into month name?
 
 #include<stdio.h>
 
