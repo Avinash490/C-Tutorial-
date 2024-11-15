@@ -1,4 +1,5 @@
-// Day : 20  WAP to convert a digit into word?
+// Day : 21 Of C tutorial. 
+// WAP to convert a digit into word?
 
 #include<stdio.h>
 
